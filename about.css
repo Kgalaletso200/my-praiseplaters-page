@@ -1,10 +1,10 @@
 *{
-    margin: 0%;
-    padding:0.33%;
+    margin: 0px;
+    padding: 0px;
 }
 
 body{
-    background-image:URL(images/bright\ background.jpeg);
+    background-image: URL(images/bright\ background.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -55,47 +55,12 @@ nav a:hover{
     border-radius: 10px;
 }
 
-.section-1{
-    margin-top: 120px;
-    margin: 0%;
-    padding: 0%;
-    border-radius: 20px;
-    background-color: cornsilk;
-    
-}
-
-.section-1 h1{
-    margin-left: 500px;
-    margin-top: 25px;
-}
-
-.section-1 img{
-    margin-left: 167px;
-    border-radius: 54px;
-    border-radius: 45px;
-
-}
-
-.section-1 p{
-    margin-left: 480px; 
-    margin-top: -130px;  
-}
-
-.section-2{
-    margin-top: 120px;
-    background-color: bisque;
-    border-radius: 10px;
-}
-
-.section-2 img{
-    border-radius: 250px;
-    height: 100px;
-    width: 100px;
+h1{
+    margin-top: 45px;
 }
 
 footer{
     background-color: beige;
     border-radius: 20px;
+    margin-top: 450px;
 }
-
-
